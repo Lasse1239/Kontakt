@@ -1,8 +1,14 @@
-BEGIN:VCARD
+EGIN:VCARD
 VERSION:3.0
+
 FN:Lasse Szygulla
+N:Szygulla;Lasse;;;
+
 ORG:LS Agrarfocus
+
 TEL;TYPE=CELL:+4915771494909
-EMAIL;TYPE=WORK:lasse.szygulla@gmx.de
-EMAIL;TYPE=HOME:ls.agrarfocus@gmx.de
+
+EMAIL;TYPE=HOME:lasse.szygulla@gmx.de
+EMAIL;TYPE=WORK:ls.agrarfocus@gmx.de
+
 END:VCARD
